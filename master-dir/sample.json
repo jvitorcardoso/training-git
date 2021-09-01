@@ -1,0 +1,10 @@
+{
+    "properties": [
+        {
+            "sql": null,
+            "github": null,
+            "python": "3.8.0",
+            "java": "1.8.0"
+        }
+    ]
+}
